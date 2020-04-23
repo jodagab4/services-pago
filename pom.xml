@@ -8,10 +8,10 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.app.cronograma</groupId>
-	<artifactId>services-cronograma</artifactId>
+	<groupId>com.app.pago</groupId>
+	<artifactId>services-pago</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>services-cronograma</name>
+	<name>services-pago</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
